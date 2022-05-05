@@ -26,4 +26,4 @@ func show_waiting_room():
 
 func _on_ReadyButton_pressed():
 	ready_button.disabled = true
-
+#test
